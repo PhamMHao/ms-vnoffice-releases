@@ -1,7 +1,7 @@
 {
     "minVersion":  "1.0.0.0",
     "package":  {
-                    "version":  "1.0.1.0",
+                    "version":  "5.4.0.0",
                     "win_64":  {
                                    "archive":  {
                                                    "url":  "https://github.com/PhamMHao/ms-vnoffice-releases/releases/download/v1.0.1/ms-vnoffice-win64-1.0.1.zip",
