@@ -1,9 +1,12 @@
 {
-  "version": "6.1.0.0",
-  "releaseDate": "2026-10-30T15:31:28Z",
-  "url": "https://github.com/PhamMHao/ms-vnoffice-releases/releases/download/v6.1.0/ms-vnoffice-win64-6.1.0.zip",
-  "packageUrl": "https://github.com/PhamMHao/ms-vnoffice-releases/releases/download/v6.1.0/ms-vnoffice-win64-6.1.0.zip",
-  "md5": "9b882b3f637caac6e7ffd32657631270",
-  "notes": "MS VN-OFFICE 6.1: Nâng cấp AI thông minh, hỗ trợ tự động chỉnh sửa file Excel/Word/Slide trực tiếp, tối ưu hóa giao diện và cập nhật hệ thống.",
-  "releaseNotes": "MS VN-OFFICE 6.1: Nâng cấp AI thông minh, hỗ trợ tự động chỉnh sửa file Excel/Word/Slide trực tiếp, tối ưu hóa giao diện và cập nhật hệ thống."
+  "package": {
+    "version": "6.1.0.0",
+    "win_64": {
+      "archive": {
+        "url": "https://github.com/PhamMHao/ms-vnoffice-releases/releases/download/v6.1.0/ms-vnoffice-win64-6.1.0.zip",
+        "md5": "50ef75713e80af0170b891edc3dab503"
+      }
+    }
+  },
+  "minVersion": "1.0.0.0"
 }
