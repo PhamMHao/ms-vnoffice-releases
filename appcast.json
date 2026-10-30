@@ -1,12 +1,12 @@
 {
-    "minVersion":  "1.0.0.0",
-    "package":  {
-                    "version":  "5.4.0.0",
-                    "win_64":  {
-                                   "archive":  {
-                                                   "url":  "https://github.com/PhamMHao/ms-vnoffice-releases/releases/download/v1.0.1/ms-vnoffice-win64-1.0.1.zip",
-                                                   "md5":  "54ecd3891e7f7c95cf01b3be2678066c"
-                                               }
-                               }
-                }
+  "package": {
+    "version": "6.1.0.0",
+    "win_64": {
+      "archive": {
+        "url": "https://github.com/PhamMHao/ms-vnoffice-releases/releases/download/v6.1.0/ms-vnoffice-win64-6.1.0.zip",
+        "md5": "4dfdd888641a870131329effa4c8b9b3"
+      }
+    }
+  },
+  "minVersion": "1.0.0.0"
 }
