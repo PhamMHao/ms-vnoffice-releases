@@ -1,12 +1,12 @@
 {
     "minVersion":  "1.0.0.0",
     "package":  {
-                    "version":  "6.1.2.0",
+                    "version":  "6.1.2.1",
                     "win_64":  {
                                    "archive":  {
-                                                   "url":  "https://license.gpsoft.vn/downloads/ms-vnoffice-win64-6.1.2.zip",
-                                                   "md5":  "4a182e88fd40582aab7b87a442532a89",
-                                                   "url2":  "https://github.com/PhamMHao/ms-vnoffice-releases/releases/download/v6.1.2/ms-vnoffice-win64-6.1.2.zip"
+                                                   "url":  "https://license.gpsoft.vn/downloads/ms-vnoffice-win64-6.1.2.1.zip",
+                                                   "md5":  "f88a4bcbb27052a24e3ca42bea580dc2",
+                                                   "url2":  "https://github.com/PhamMHao/ms-vnoffice-releases/releases/download/v6.1.2.1/ms-vnoffice-win64-6.1.2.1.zip"
                                                }
                                }
                 }
